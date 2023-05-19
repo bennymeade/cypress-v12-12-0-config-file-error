@@ -1,0 +1,1 @@
+# cypress-v12-12-0-config-file-error
